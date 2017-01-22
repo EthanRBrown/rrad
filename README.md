@@ -39,6 +39,11 @@ with the form:
         }
     },
 
+For example, to get a random address:
+
+    const addresses = require('./rrad/addresses-us-all.min.json').addresses
+    const randomAdress = addresses[Math.floor(Math.random() * addresses.length)]
+
 ## Attribution
 
 All data collected from the [OpenAddresses](https://openaddresses.io/) project, and is in the public domain.  Original sources:
