@@ -13,11 +13,11 @@ The data is packaged into randomly-ordered files of varying sizes:
 
 | Filename                      | Address Count   | Size    |
 | ----------------------------- | ---------------:| -------:|
-| addresses-us-all.json         | 1,850           | 557k    |
-| addresses-us-all.min.json     | 1,850           | 284k    |
-| addresses-us-1000.json        | 1,000           | 303k    |
+| addresses-us-all.json         | 3,220           | 969k    |
+| addresses-us-all.min.json     | 3,220           | 493k    |
+| addresses-us-1000.json        | 1,000           | 304k    |
 | addresses-us-1000.min.json    | 1,000           | 155k    |
-| addresses-us-500.json         |   500           | 153k    |
+| addresses-us-500.json         |   500           | 154k    |
 | addresses-us-500.min.json     |   500           |  79k    |
 | addresses-us-250.json         |   250           |  79k    |
 | addresses-us-250.min.json     |   250           |  41k    |
