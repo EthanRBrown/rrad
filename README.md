@@ -42,7 +42,20 @@ with the form:
 For example, to get a random address:
 
     const addresses = require('./rrad/addresses-us-all.min.json').addresses
-    const randomAdress = addresses[Math.floor(Math.random() * addresses.length)]
+    const randomAddress = addresses[Math.floor(Math.random() * addresses.length)]
+
+You may also install this package via npm, though it is a large package since it contains all the data sets.  Usage:
+
+    npm install --save-dev rrad
+
+Or
+
+    yarn add -D rrad
+
+Then, to get a random address:
+
+    const rrad = require('rrad')
+    const randomAddress = rrad.addresses[Math.floor(Math.random() * rrad.addresses.length)] 
 
 ## Attribution
 

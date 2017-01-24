@@ -1,0 +1,9 @@
+{
+  "name": "rrad",
+  "version": "1.0.0",
+  "description": "Real, random address data.  Public domain.",
+  "main": "index.js",
+  "repository": "git@github.com:EthanRBrown/rrad.git",
+  "author": "Ethan Brown <e@zepln.com>",
+  "license": "MIT"
+}
