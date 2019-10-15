@@ -2,7 +2,7 @@
 
 This is a list of real, random addresses that geocode successfully (tested on Google's Geocoding API service).
 The address data comes from the [OpenAddresses](https://openaddresses.io/) project, and all the addresses are in the public domain.  The
-addresses are deliberately not linked to people or businesses; the only gaurantee is that they are real addresses that
+addresses are deliberately not linked to people or businesses; the only guarantee is that they are real addresses that
 geocode successfully.
 
 The addresses were pulled from OpenAddress where the "Required attribute" field was present and not "Yes".  See "Attribution" below for a list of sources (also included in each data file).
